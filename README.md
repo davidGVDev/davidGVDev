@@ -54,7 +54,7 @@
 
 ###
 
-<a href="https://davidgvdev.github.io/portfolio/about" target="_blank"> 
+<a href="https://davidgvdev.github.io/CV-Portfolio/" target="_blank"> 
   My web 🤓
 </a>
 
