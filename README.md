@@ -54,7 +54,7 @@
 
 ###
 
-<a href="https://cv-portfolio-production.up.railway.app/portfolio/about" target="_blank"> 
+<a href="https://davidgvdev.github.io/portfolio/about" target="_blank"> 
   My web 🤓
 </a>
 
